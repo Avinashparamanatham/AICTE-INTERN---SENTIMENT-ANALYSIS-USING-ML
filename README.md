@@ -93,7 +93,3 @@ Contributions are welcome! If you’d like to improve the project, follow these 
 
 ## **License**  
 This project is licensed under the **MIT License**.  
-
----
-
-Let me know if you need modifications! 🚀
